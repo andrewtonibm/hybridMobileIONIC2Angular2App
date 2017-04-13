@@ -1,0 +1,157 @@
+   {
+
+  "assetSearch": [{
+    "date": "2047-05-17",
+
+
+    "groups": 
+       [
+       
+       
+       
+    {
+      "time": "Category Network-Hardware",
+      "assets": [{
+        "barCode": "BC0358567",
+        "serialNumber": "SSN-0402085066",
+        "itemName": "Router",
+        "location": "Computer Room 500A",
+        "tracks": ["Coronado"]
+      }]
+
+
+    }, 
+    
+    
+    
+    {
+      "time": "Category Hardware",
+      "assets": [
+      
+      {
+        "barCode": "BC63475",
+        "location": "Room 2203",
+        "description": "Dell Laptop XP rugged laptop",
+        "militaryBaseNames": ["Ellie Elephant"],
+        "serialNumber": "SSN-60384086",
+        "itemName": "Laptop",
+        "tracks": ["Coronado"]
+      }, {
+        "barCode": "BC7904853",
+        "location": "Room 2202",
+        "description": "Dell Computer Monitor 27 inch monitor",
+        "militaryBaseNames": ["Ted Turtle"],
+        "serialNumber": "SSN-64937465",
+        "itemName": "Monitor",
+        "tracks": ["FortBelvoir"]
+      }, {
+        "barCode": "BC680384",
+        "location": "Room 204",
+        "description": "Dell docking station",
+        "militaryBaseNames": ["Ted Turtle"],
+        "serialNumber": "Serial 6853475",
+        "itemName": "Docking",
+        "tracks": ["PearlHarbor"]
+
+      }
+      ]
+      
+      
+    }, 
+    
+    
+    {
+      "time": "Category Software",
+      "assets": 
+      
+      [
+      
+      
+      {
+        "barCode": "BC904756",
+        "location": "Room 2201",
+        "description": "Microsoft Windows 10",
+        "militaryBaseNames": ["Eva Eagle", "Lionel Lion"],
+        "serialNumber": "SSN-5430753",
+        "itemName": "MS Windows 10",
+        "tracks": ["PearlHarbor"]
+      }, {
+        "barCode": "BC904756",
+        "location": "Room 2201",
+        "description": "Microsoft Windows 7",
+        "militaryBaseNames": ["Eva Eagle", "Lionel Lion"],
+        "serialNumber": "SSN-56050486",
+        "itemName": "MS Windows 7",
+        "tracks": ["Coronado"]
+
+      }, {
+        "barCode": "BC908750647",
+        "location": "Room 2201",
+        "description": "Microsoft Windows XP",
+        "militaryBaseNames": ["Eva Eagle", "Lionel Lion"],
+        "serialNumber": "SSN-0394565",
+        "itemName": "MS Windows XP",
+        "tracks": ["FortBelvoir"]
+
+      }
+      
+      ]
+    }
+    
+    ]
+    
+    
+  }],
+
+
+  "militaryBases": [
+  
+  {
+    "barCode": "Coronado",
+    "profilePic": "assets/img/militaryBases/coronado.jpg",
+    "twitter": "ionicframework",
+    "about": "Coronado is in San Diego.",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+1-541-754-3010"
+  }, 
+
+  {
+    "barCode": "Fort Belvoir",
+    "profilePic": "assets/img/militaryBases/fortBelvoir.jpg",
+    "twitter": "ionicframework",
+    "about": "Fort Belvoir is in Northern VA.",
+    "location": "Everywhere",
+    "email": "burt@example.com",
+    "phone": "+1-541-754-3010"
+  }, 
+
+
+  
+  {
+    "barCode": "Pearl Habor",
+    "profilePic": "assets/img/militaryBases/pearlHarbor.jpg",
+    "twitter": "ionicframework",
+    "about": "Pearl Harbor is in Hawaii.",
+    "location": "Everywhere",
+    "email": "charlie@example.com",
+    "phone": "+1-541-754-3010"
+  }],
+
+
+  "map": [{
+    "barCode": "Monona Terrace Convention Center",
+    "lat": 43.071584,
+    "lng": -89.380120,
+    "center": true
+  }, {
+    "barCode": "Ionic HQ",
+    "lat": 43.074395,
+    "lng": -89.381056
+  }, {
+    "barCode": "Afterparty - Brocach Irish Pub",
+    "lat": 43.07336,
+    "lng": -89.38335
+  }]
+
+}
