@@ -1,3 +1,6 @@
 To build and run:
-1) ionic serve --lab
-2) open browser to http://localhost:8100/ionic-lab
+1) git init
+2) git pull https://github.com/andrewtonibm/hybridMobileIONIC2Angular2App.git
+3) setup ionic (google from web for instruction)
+4) ionic serve --lab
+5) open browser to http://localhost:8100/ionic-lab
