@@ -1,3 +1,9 @@
+Notes from Author:
+
+See this youtube video for my short video demo: https://youtu.be/rXkzfQWvPaw
+See this youtube video for my short video demo: https://youtu.be/rXkzfQWvPaw
+See this youtube video for my short video demo: https://youtu.be/rXkzfQWvPaw
+
 To build and run:
 1) git init
 2) git pull https://github.com/andrewtonibm/hybridMobileIONIC2Angular2App.git
